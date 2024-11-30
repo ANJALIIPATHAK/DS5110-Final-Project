@@ -1,7 +1,7 @@
 # Project Proposal
-                                      DS5110 - Fall2024
-                                    Anjali Pathak, MSCS
-                                        Ren Huang, MSDS
+#### DS5110 - Fall2024
+#### Anjali Pathak, MSCS
+#### Ren Huang, MSDS
 ## Description of the Problem 
 According to a September 24 report by the Associated Press, obesity rates in the United States remain high and stable, with approximately 40% of the population affected, based on a 2021-2023 survey of  around 6,000 individuals. The U.S. Centers for Disease Control and Prevention surveys demonstrate that nearly one in ten participants reported experiencing severe obesity. Given obesity's strong association with cardiovascular disease, diabetes, and a reduced quality of life, weight loss is a significant concern for many. Achieving a calorie deficit to reduce body fat involves both dietary management and increased energy expenditure, making the gym an ideal choice for those aiming to improve their health.
 
